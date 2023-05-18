@@ -86,16 +86,15 @@ RTL realization
 ![OUTPUT](/3l.png)
 
 ### Full adder:
-[OUTPUT](/4l.png)
-
+![OUTPUT](/4l.png)
 
 ### TRUTH TABLE 
 ### Half adder:
 
-[OUTPUT](/l.png)
+![OUTPUT](/l.png)
 
 ### Full adder:
-[OUTPUT](/0.png)
+![OUTPUT](/0.png)
 
 ### Result:
 
